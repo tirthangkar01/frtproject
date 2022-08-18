@@ -1,4 +1,4 @@
-# frtproject
+# frt food project
 Below is my final FRT project with some samples of screenshots.
 # Azure website Link https://lively-coast-0b2de5910.1.azurestaticapps.net/
 #Homepage
